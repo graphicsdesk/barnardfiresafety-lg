@@ -7,12 +7,84 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Barnard’s crime rates rose to pre-pandemic levels after historic lows, according to its 2023 <a href=\"https://barnard.edu/cares/community-safety/security-fire-safety-report\">Annual Security and Fire Safety Report</a>. Director of Community Safety and Emergency Response Gary Maroni shared the legally-mandated report on campus safety in an Oct. 3 email to the community."
+          },
+          {
+            "type": "text",
+            "value": "The college saw a noticeable decline in crime in 2020 and 2021 when numbers dropped to five and three total incidents, respectively. As Barnard noted in the <a href=\"https://barnard.edu/sites/default/files/inline-files/Barnard%20College%20Clery%20ASR%20for%202022%20calendar%20year.pdf\">2022 Annual Security Report</a>, the “COVID-19 pandemic beginning in early 2020 resulted in continued reduced campus population for more than half of the 2021 calendar year.” In 2022, as campus activities resumed, total incidents rose to six, before increasing to nine in 2023."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "barchart.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "“I share this report as part of the College’s efforts to provide information about our safety and security practices and procedures, services, and resources to help students, faculty, and staff take an active role in community safety and crime prevention,” Maroni wrote."
+          },
+          {
+            "type": "text",
+            "value": "The security report is mandated by the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, which requires that colleges disclose detailed information about campus safety, “keeping parents and students well informed about campus safety and security,” according to the <a href=\"https://surveys.ope.ed.gov/campussafety/#/\">U.S. Department of Education</a>. Data is collected and compiled on the Education Department’s Campus Safety and Security <a href=\"https://ope.ed.gov/campussafety/#/\">page</a>. The report includes crime prevention strategies, drug and alcohol policies, and relevant crime and fire statistics. It also outlines resources available to students."
+          },
+          {
+            "type": "text",
+            "value": "Burglary remains one of the top crime incidents reported at Barnard, with a total of three incidents in 2023, all occurring in on-campus residential areas. This aligns with the high rates pre-pandemic, with three incidents in 2019 and six in 2020."
+          },
+          {
+            "type": "text",
+            "value": "The college reported that there were zero hate crimes across 2021, 2022, and 2023—marking the third consecutive year without reported incidents since 2020, which had one incident involving “vandalism of college property based upon race.”"
+          },
+          {
+            "type": "text",
+            "value": "The report defines a “hate crime” as “a criminal offense committed against a person or property that is motivated, in whole or in part, by the offender’s bias. Bias is a preformed negative opinion or attitude toward a group of persons based on their actual or perceived race, gender, gender identity, religion, disability, sexual orientation, or ethnicity/national origin.”"
+          },
+          {
+            "type": "text",
+            "value": "Four additional criminal offenses related to hate crimes include larceny-theft, simple assault, intimidation, and destruction or vandalism of property, according to the report."
+          },
+          {
+            "type": "text",
+            "value": "Barnard reported four stalking cases in 2023. The increase exceeds numbers from the pandemic, where cases fluctuated between zero and one, and also surpasses the pre-pandemic high of three cases in 2019."
+          },
+          {
+            "type": "text",
+            "value": "In 2021, Barnard spent <a href=\"https://www.columbiaspectator.com/news/2023/10/02/barnard-paid-over-66000-in-2021-fire-damages-in-brooks-hall-only-barnard-dorm-without-automatic-sprinkler-system/\">$66,038 due to fire damage in Brooks Hall</a>. In the past two years, no fires were reported with significant property damage. The report details minor fire incidents caused by lit candles and cooking in 2023."
+          },
+          {
+            "type": "text",
+            "value": "The Clery Act also requires colleges to report on arrests related to weapons, drug abuse, and liquor violations. Barnard has reported zero arrests across these categories since 2021. Instead, the college has seen a sharp decrease in liquor law violations over the past three years, with incidents dropping by half—from 12 in 2021 to six in 2023. This compares to a high of 71 alcohol referrals in 2019."
+          },
+          {
+            "type": "text",
+            "value": "In the 2023 report, Barnard introduced a new Alcohol and Other Drugs Specialist to support students with substance abuse. The AOD counselor is “focused on expanding the counselors’ access to the broader Barnard Community,” according to the report. The AOD specialist can “educate, train and direct Barnard students where to obtain prevention kits.” This initiative is being implemented alongside the <a href=\"https://www.columbiaspectator.com/news/2023/09/14/barnard-secures-columbia-classroom-space-ahead-of-2024-closure-of-altschul-hall/\">opening</a> of the Francine A. LeFrak Foundation Center for Well-Being, which is expected to open this fall."
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Ria Vasishtha can be contacted at </i><a href=\"mailto:ria.vasishtha@columbiaspectator.com\"><i>ria.vasishtha@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Editor Laya Gollamudi can be contacted at </i><a href=\"mailto:laya.gollamudi@columbiaspectator.com\"><i>laya.gollamudi@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Barnard Annual Security and Fire Safety Report shows rise in crime rates",
+        "date": "October 17, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Ria-Vasishtha/\">Ria Vasishtha</a>. Graphic by <a href=\"https://www.columbiaspectator.com/contributors/laya-gollamudi/\">Laya Gollamudi</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/SJKN6LGSYZDYNFEQINDBRZ6AFI.jpg",
+        "cover_caption": "Gabriela Diaz-Vendrell / Deputy Photo Editor",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1POL7OlaKRScyWRDeNF-NAiRD7euxSNIhbm1lRBl5wnw/edit?tab=t.0"
       }
     }
   }
